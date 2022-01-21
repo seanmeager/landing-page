@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  background-size: cover;
+  text-align: center;
+  padding: 60px;
+  height: 75px;
+}
+
+.footer a {
+  font-size: 30px;
+  color: white;
+  margin: 0 5px;
+}
+
+.footer p {
+  color: white
+  opacity: .3;
+}
+
+.footer .globe {
+  color: green;
+}
